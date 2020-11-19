@@ -1,0 +1,46 @@
+.option{
+    display: flex;
+    flex-direction: column;
+ min-height: 10px;
+    min-width: 5px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+    width: 100%;
+
+
+}
+.home_option{
+    width: 100%;
+}
+
+.option_info{
+    min-height: 10px;
+    width: 100%;
+    
+}
+.option_info > h3{
+    color: rgb(245, 190, 11);
+    text-align: center;
+    
+}
+
+.option_info > p{
+    color: rgb(134, 134, 134);
+    text-align: center;
+    margin: 10px;
+    
+    
+}
+
+
+.option > .option_pic >img {
+    min-height: 40px;
+    min-width: 20px;
+    width: 100%;
+    object-fit: contain;
+    margin-bottom:5px ;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+   
+}

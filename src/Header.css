@@ -1,0 +1,26 @@
+.header{
+    position: absolute;
+    width: 86%;
+    background-color: rgb(120, 1, 167);
+    margin-left: 7%;
+    margin-right: 7%;
+    text-align: center;
+    
+}
+
+.header_logo{
+    display: inline-block;
+    margin-left: 50px;
+    width: 160px;
+    
+    
+}
+.home_logo{
+   border-bottom-left-radius: 8px;
+   border-bottom-right-radius: 8px;
+    width: 25px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-right: 80px;
+    float: right;
+}
