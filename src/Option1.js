@@ -7,6 +7,9 @@ function Option1() {
 
             <img className= "opt_pg_img" src= "pd/oppp.jpg"
             alt= ""/>
+
+           <img className="home_banner" src="pd/architecture-astronomy-bright-building-267625.jpg"
+            alt= ""/>
             
             <div className="opt_info">
             <h1>Your Heading goes here!</h1>

@@ -34,7 +34,7 @@ import Option3 from "./Option3";
    <Footer />
    </Route>
 
-  <Route path="/parson-dynamics">
+  <Route path="/">
     <Header />
     <Home />
     <Footer />
