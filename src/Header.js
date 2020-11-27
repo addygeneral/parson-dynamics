@@ -5,10 +5,10 @@ function Header() {
     return (
         <nav className="header">
             <Link to="/">
-            <img className="header_logo" src="/pd/logo.png"
+            <img className="header_logo" src="pd/logo.png"
             alt= ""/>
             
-            <img className="home_logo" src="/pd/home button.png"
+            <img className="home_logo" src="pd/home button.png"
             alt= ""/>
 
             </Link>

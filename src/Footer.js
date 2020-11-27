@@ -29,11 +29,11 @@ function Footer() {
                 </div>
             </div>
             <Link to="/">
-            <img className="footer_logo" src="/pd/logo.png"
+            <img className="footer_logo" src="pd/logo.png"
             alt= ""/>
             </Link>
 
-            <img className="footer_img" src="/pd/bg.jpg"
+            <img className="footer_img" src="pd/bg.jpg"
             alt= ""/>
             
          
