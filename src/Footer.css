@@ -2,6 +2,7 @@
     position: absolute;
     width: 100%;
     text-align: center;
+    bottom: 0;
     
    
 }
@@ -15,7 +16,8 @@
 }
 .col{
     text-align: left;
-    margin-left: 20%;
+    margin: auto;
+    width: 20%;
     color: rgb(245, 190, 11);
    
 }

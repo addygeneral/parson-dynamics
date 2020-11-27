@@ -1,7 +1,7 @@
 .home{
     width: 100%;
   background-color: rgb(234, 237, 237);
-  min-height: calc(100vh - 80px - 300px);
+  
 }
 
 .home_banner{

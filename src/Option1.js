@@ -5,9 +5,9 @@ function Option1() {
     return (
         <div className= "men">
 
-            <img className= "opt_pg_img" src= "/pd/oppp.jpg"
+            <img className= "opt_pg_img" src= "pd/oppp.jpg"
             alt= ""/>
-            
+
             
             <div className="opt_info">
             <h1>Your Heading goes here!</h1>
