@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/parson-dynamics/static/css/main.ba22f6c6.chunk.css",
-    "main.js": "/parson-dynamics/static/js/main.dbe91308.chunk.js",
-    "main.js.map": "/parson-dynamics/static/js/main.dbe91308.chunk.js.map",
+    "main.js": "/parson-dynamics/static/js/main.c9667507.chunk.js",
+    "main.js.map": "/parson-dynamics/static/js/main.c9667507.chunk.js.map",
     "runtime-main.js": "/parson-dynamics/static/js/runtime-main.8e5b1ee3.js",
     "runtime-main.js.map": "/parson-dynamics/static/js/runtime-main.8e5b1ee3.js.map",
     "static/js/2.7f1d621c.chunk.js": "/parson-dynamics/static/js/2.7f1d621c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8e5b1ee3.js",
     "static/js/2.7f1d621c.chunk.js",
     "static/css/main.ba22f6c6.chunk.css",
-    "static/js/main.dbe91308.chunk.js"
+    "static/js/main.c9667507.chunk.js"
   ]
 }
