@@ -4,7 +4,7 @@ import "./OptPg.css";
 function Option3() {
     return (
         <div className= "men">
-            <img className="opt_pg_img" src="pd/person-using-forklift-1267338.jpg"
+            <img className="opt_pg_img" src="/pd/person-using-forklift-1267338.jpg"
             alt= ""/>
 
            <div className="opt_info">
